@@ -1,0 +1,2 @@
+rootProject.name='Preferencias do Usuario'
+include ':app'
